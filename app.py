@@ -1,1 +1,1 @@
-# Inserisci qui il contenuto di app.py (già presente nel canvas, da salvare localmente)
+# Inserisci qui il codice aggiornato dal canvas manualmente, se richiesto.
