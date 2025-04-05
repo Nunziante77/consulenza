@@ -1,0 +1,14 @@
+credentials:
+  usernames:
+    admin:
+      email: admin@email.com
+      name: Amministratore
+      password: "$2b$12$xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
+cookie:
+  name: strategic_monitor
+  key: your_cookie_secret
+  expiry_days: 7
+
+preauthorized:
+  emails: []

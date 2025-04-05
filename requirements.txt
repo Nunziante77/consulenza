@@ -1,0 +1,7 @@
+streamlit
+fpdf
+openai
+PyYAML
+streamlit-authenticator
+sentence-transformers
+faiss-cpu
